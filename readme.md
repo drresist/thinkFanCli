@@ -1,5 +1,7 @@
 # Управление вентилятором ThinkFan
 
+[![Python application](https://github.com/drresist/thinkFanCli/actions/workflows/python-app.yml/badge.svg)](https://github.com/drresist/thinkFanCli/actions/workflows/python-app.yml)
+
 Этот проект представляет собой CLI-утилиту для управления скоростью вентилятора на ноутбуках ThinkPad.
 
 ## Описание
