@@ -38,10 +38,10 @@
 
 ## Использование
 
-Запустите скрипт с правами sudo:
+Запустите скрипт:
 
 ```
-sudo python3 fan_control.py
+python3 fan_control.py
 ```
 
 ### Команды
